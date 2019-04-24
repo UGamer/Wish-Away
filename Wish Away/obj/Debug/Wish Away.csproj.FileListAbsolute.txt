@@ -1,0 +1,13 @@
+C:\Users\deboltm\Documents\GitHub\Wish Away\Wish Away\Wish Away\bin\Debug\ItemDatabase.mdf
+C:\Users\deboltm\Documents\GitHub\Wish Away\Wish Away\Wish Away\bin\Debug\ItemDatabase_log.ldf
+C:\Users\deboltm\Documents\GitHub\Wish Away\Wish Away\Wish Away\bin\Debug\Wish Away.exe.config
+C:\Users\deboltm\Documents\GitHub\Wish Away\Wish Away\Wish Away\bin\Debug\Wish Away.exe
+C:\Users\deboltm\Documents\GitHub\Wish Away\Wish Away\Wish Away\bin\Debug\Wish Away.pdb
+C:\Users\deboltm\Documents\GitHub\Wish Away\Wish Away\Wish Away\obj\Debug\Wish Away.csprojAssemblyReference.cache
+C:\Users\deboltm\Documents\GitHub\Wish Away\Wish Away\Wish Away\obj\Debug\Wish_Away.Form1.resources
+C:\Users\deboltm\Documents\GitHub\Wish Away\Wish Away\Wish Away\obj\Debug\Wish_Away.ItemManager.resources
+C:\Users\deboltm\Documents\GitHub\Wish Away\Wish Away\Wish Away\obj\Debug\Wish_Away.Properties.Resources.resources
+C:\Users\deboltm\Documents\GitHub\Wish Away\Wish Away\Wish Away\obj\Debug\Wish Away.csproj.GenerateResource.cache
+C:\Users\deboltm\Documents\GitHub\Wish Away\Wish Away\Wish Away\obj\Debug\Wish Away.csproj.CoreCompileInputs.cache
+C:\Users\deboltm\Documents\GitHub\Wish Away\Wish Away\Wish Away\obj\Debug\Wish Away.exe
+C:\Users\deboltm\Documents\GitHub\Wish Away\Wish Away\Wish Away\obj\Debug\Wish Away.pdb
